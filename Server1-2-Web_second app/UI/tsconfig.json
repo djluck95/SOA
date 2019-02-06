@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    // "baseUrl": "src/", // enables relative imports to root
+    "outDir": "out/", // target for compiled files
+    "allowSyntheticDefaultImports": true, // no errors on commonjs default import
+    "allowJs": true, // include js files
+    "checkJs": false, // typecheck js files
+    "declaration": false, // don't emit declarations
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true, // importing helper functions from tslib
+    "noEmitHelpers": false, // disable emitting inline helper functions
+    "jsx": "react", // process JSX
+    "lib": [
+      "dom",
+      "es2016"
+    ],
+    "target": "es5",
+    "module": "es6",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "pretty": true,
+    "removeComments": true,
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

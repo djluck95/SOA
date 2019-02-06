@@ -1,0 +1,14 @@
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\Storage.dll.config
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\Storage.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\Storage.pdb
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\EntityFramework.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\EntityFramework.xml
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\obj\Debug\Storage.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server2\Storage\obj\Debug\Storage.pdb

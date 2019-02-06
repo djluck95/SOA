@@ -1,0 +1,16 @@
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\obj\Debug\WorkoutDAL.Migrations.db1.resources
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\obj\Debug\Storage.csproj.GenerateResource.cache
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\Storage.dll.config
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\Storage.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\Storage.pdb
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\EntityFramework.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\EntityFramework.xml
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\obj\Debug\Storage.dll
+C:\Users\dmirza\Desktop\ilazar\REST_Server1\WorkoutDAL\obj\Debug\Storage.pdb

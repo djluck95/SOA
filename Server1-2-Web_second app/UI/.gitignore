@@ -1,0 +1,7 @@
+src/typings/
+.idea/
+dist/
+src/fonts/
+src/client.min.js
+node_modules/
+yarn-error.log

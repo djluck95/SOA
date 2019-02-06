@@ -1,0 +1,11 @@
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\bin\Debug\netcoreapp2.1\Models.dll
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\obj\Debug\netcoreapp2.1\Models.csproj.CopyComplete
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\obj\Debug\netcoreapp2.1\Models.dll
+C:\Andrei\Facultate\ilazar\okta-angular-aspnetcore-example-master\Backend\Models\obj\Debug\netcoreapp2.1\Models.pdb

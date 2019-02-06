@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tweet.wcfservice.restful:
+    image: ${DOCKER_REGISTRY-}tweetwcfservicerestful
+    build:
+      context: .\Tweet.WCFService.RESTful
+      dockerfile: Dockerfile
